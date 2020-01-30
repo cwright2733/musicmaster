@@ -1,6 +1,11 @@
 ## Images
 <a href="https://ibb.co/8MQR0GF"><img src="https://i.ibb.co/y0xMXKL/2020-01-30.png" alt="2020-01-30" border="0"></a>
 
+## Instructions
+1. Get access to spotify access code and insert where it says acess code
+2. Type in artist of choice
+3. click and play music end enjoy=)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
